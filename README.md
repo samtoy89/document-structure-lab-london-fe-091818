@@ -1,4 +1,4 @@
-# Document Structure Continued
+<!doctype>
 
 ## Problem Statement
 
